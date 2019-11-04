@@ -14,27 +14,54 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "deleteUpdateCustomer", 
         "Elements", 
-        "drpCompany.json"
+        "drpCompany1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "deleteUpdateCustomer", 
         "Elements", 
-        "lblDescription.json"
+        "lblDescription1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "deleteUpdateCustomer", 
         "Elements", 
-        "hmbNav1.json"
+        "Radiobutton1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "btnSubmit1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "inptNewName.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "hmbNav2.json"
       ]
     }
   ], 
@@ -44,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "seeCustomers", 
+  "id": "deleteUpdateCustomer", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

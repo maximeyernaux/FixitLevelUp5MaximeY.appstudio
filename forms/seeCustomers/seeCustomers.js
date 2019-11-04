@@ -43,3 +43,33 @@ drpCompany.onclick=function(s){
   }
 
 }
+
+hmbNav1.onclick=function(){
+  hmbMenu.clear()
+
+for(i=0;i<forms.length;i++){
+    
+    hmbMenu.addItem(forms[i])
+  }
+
+  if (typeof(s) == "object") 
+    return
+    
+switch(s) {
+case "See Customer":
+    ChangeForm(seeCustomers)
+    break
+case "Add Customer":
+    ChangeForm(addCustomer)
+    break
+case "Edit Customer":
+    ChangeForm(deleteUpdateCustomer)
+    break
+    
+case "Delete Customer":
+    ChangeForm(deleteUpdateCustomer)
+    break
+    
+  
+}
+}

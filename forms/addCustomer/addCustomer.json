@@ -14,27 +14,36 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "addCustomer", 
         "Elements", 
-        "drpCompany.json"
+        "lstCompanies.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "addCustomer", 
         "Elements", 
-        "lblDescription.json"
+        "mdlShow.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "seeCustomers", 
+        "addCustomer", 
         "Elements", 
-        "hmbNav1.json"
+        "btnSubmit2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "addCustomer", 
+        "Elements", 
+        "hmbNav.json"
       ]
     }
   ], 
@@ -44,7 +53,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "seeCustomers", 
+  "id": "addCustomer", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 

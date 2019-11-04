@@ -17,9 +17,9 @@
   "fontWeight": "", 
   "height": 175, 
   "hidden": "", 
-  "id": "lblDescription", 
+  "id": "lblDescription1", 
   "labelStyle": "text", 
-  "left": 31, 
+  "left": 14, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 202, 
+  "top": 282, 
   "value": "", 
   "width": 170
 }
